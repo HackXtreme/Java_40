@@ -15,6 +15,10 @@ public class Calculator
         {
             System.out.println(e.getMessage());
         }
+        catch(Exception e)
+        {
+            System.out.println(e.getMessage());
+        }
         finally
         {
             System.out.println(z);
