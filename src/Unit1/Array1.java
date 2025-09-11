@@ -1,4 +1,6 @@
-import java.util.*;
+package Unit1;
+
+import java.util.Scanner;
 public class Array1
 {
     public static void main(String[] args) {

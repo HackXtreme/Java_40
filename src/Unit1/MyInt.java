@@ -1,4 +1,6 @@
-public class MyInt implements Printable,Showable
+package Unit1;
+
+public class MyInt implements Printable, Showable
 {
     public void print()
     {

@@ -1,4 +1,5 @@
-import java.util.*;
+package Unit1;
+
 public class Student {
     int roll_no;
     public String name;
