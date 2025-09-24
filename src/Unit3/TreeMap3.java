@@ -14,6 +14,6 @@ public class TreeMap3
             char ch = word.charAt(i);
             tm.put(ch, tm.getOrDefault(ch, 0) + 1);
         }
-        tm.forEach((key,value)->System.out.println(key+" "+value));
+        tm.forEach((key,value)->System.out.print(key+" "+value+" "));
     }
 }
